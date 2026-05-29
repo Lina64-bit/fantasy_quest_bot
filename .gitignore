@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+game.db
+generated_images/
+default_character.png
